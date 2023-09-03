@@ -1,2 +1,2 @@
-# Walmart-Analysis
-Analyzing Walmart sales using Python
+# Project-Walmart-Sales-Analysis
+The aim of this project is to analyze the retail sales data of Walmart stores and build a predictive model to accurately forecast sales and demand. The project will involve exploring the dataset, performing statistical analysis, and developing a statistical model using linear regression. The dataset includes historical sales data from 45 Walmart stores, covering the period from 2010-02-05 to 2012-11-01.
